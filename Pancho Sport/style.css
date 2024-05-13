@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'BROTHER';
+    src: url('Pancho Sport\FILE\BrightSight 02\BRIGHTSIGHT02.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;}
+
+*{
+    font-family: 'BROTHER';
+}
+#titulo{
+    padding-left: 5%;
+}
+#eslogan{
+    padding-left: 5%;
+}
+
+
+#contenedor_titulo{
+    background-color: rgb(212, 71, 66);
+    border-bottom: 5px solid #000;
+    border-top: 5px solid #000;
+   
+}
+#img_titulo{
+    display: flex;
+    justify-content: right;
+    
+}
